@@ -1,0 +1,7 @@
+.idea/
+env/
+*.pyc
+lms/src/db.sqlite3
+DS_Store/
+
+
